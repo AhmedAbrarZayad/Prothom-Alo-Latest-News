@@ -1,3 +1,4 @@
+# Created BY DEDSEC (Date :- 13/7/24)
 import requests
 from bs4 import BeautifulSoup
 #for sending email
