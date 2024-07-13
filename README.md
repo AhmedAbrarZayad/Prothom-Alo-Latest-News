@@ -1,6 +1,9 @@
 # Prothom-Alo-Latest-News
 
 - So this is a little project of mine I did on python. It's job is to automate the process of sending the latest news of the Bangladeshi news portal 'Prothom Alo'. It shows the top 10 news of 'Prothom Alo' for that moment. You can save the emails of people you want to send it to and then just run it. It will send the news to those emails automatically.
+# Requirements:
+  - You need to have python installed.
+  - then you need to have beautifulsoup and requests module installed. use the following commands <b>pip install requests</b> and <b>pip install beautifulsoup4</b>. If you dont have pip        installed then follow this [installation_guide](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/)
 # Instructions:
   - ## Setup
     - ### Setup sender data
